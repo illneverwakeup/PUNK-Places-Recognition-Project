@@ -1,7 +1,9 @@
-torch
-torchvision
+tensorflow[and-cuda]
+nvidia-tensorrt
+tensorflow-datasets
 matplotlib
 ipykernel
 numpy
 pandas
 scipy
+opencv-python
