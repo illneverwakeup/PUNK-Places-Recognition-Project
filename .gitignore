@@ -3,3 +3,4 @@ __*
 .vscode/
 data/*
 prep_data/*
+tg_token.txt
